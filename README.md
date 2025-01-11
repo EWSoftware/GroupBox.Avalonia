@@ -11,6 +11,8 @@
 
 A GroupBox control for Avalonia.
 
+![image](https://github.com/user-attachments/assets/41e89f7d-3046-4cd4-b72f-c8604411c510)
+
 ## Usage
 
 Add `<StyleInclude Source="avares://GroupBox.Avalonia/GroupBox.axaml" />` to your application styles.
