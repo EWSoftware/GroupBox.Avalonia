@@ -1,5 +1,7 @@
 # GroupBox
 
+[![CI](https://github.com/wieslawsoltes/GroupBox.Avalonia/actions/workflows/build.yml/badge.svg)](https://github.com/wieslawsoltes/GroupBox.Avalonia/actions/workflows/build.yml)
+
 [![NuGet](https://img.shields.io/nuget/v/GroupBox.Avalonia.svg)](https://www.nuget.org/packages/GroupBox.Avalonia)
 [![NuGet](https://img.shields.io/nuget/dt/GroupBox.Avalonia.svg)](https://www.nuget.org/packages/GroupBox.Avalonia)
 
