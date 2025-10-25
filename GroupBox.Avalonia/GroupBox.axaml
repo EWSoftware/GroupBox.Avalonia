@@ -2,7 +2,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
   <Design.PreviewWith>
-    <GroupBox Header="GroupBox">
+    <GroupBox Header="GroupBox" Margin="5">
       <StackPanel>
         <RadioButton Content="RadioButton1" />
         <RadioButton Content="RadioButton2" />
@@ -38,6 +38,7 @@
                     Grid.RowSpan="3"
                     Grid.Column="0"
                     Grid.ColumnSpan="4"
+                    Margin="0,0,1,1"
                     Background="{TemplateBinding Background}"
                     BorderBrush="{TemplateBinding BorderBrush}"
                     BorderThickness="{TemplateBinding BorderThickness}"
